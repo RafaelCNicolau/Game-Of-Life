@@ -15,5 +15,5 @@ The game is implemented in a 2 dimensional space. Each cell can be either dead o
 
 Currently the game only has the options to Play,Stop or Reset, but in the future will have the options to resize the grid, change the colors and upload files
 
-
+![GameOfLife Pattern Example](GameOfLifePattern.gif)
 
